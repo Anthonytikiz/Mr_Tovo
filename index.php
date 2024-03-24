@@ -23,9 +23,7 @@
 <body>
     <div id="tree"></div>
 
-    <!-- Load the OrgChart library -->
     <script src="https://balkan.app/js/OrgChart.js"></script>
-    <!-- Your custom script -->
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             var chart = new OrgChart(document.getElementById("tree"), {
