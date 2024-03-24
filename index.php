@@ -34,10 +34,8 @@
                 nodeBinding: {
                     field_0: "Employee Name",
                     field_1: "Title",
-                    img_0: "Photo"
                 },
                 editForm:{
-                    photoBinding: 'Photo'
                 },
                 nodeMenu: {
                     details: { text: "Details" },
